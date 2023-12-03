@@ -1,0 +1,36 @@
+ *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+ }
+.container{
+    display: flex;
+    width: 70%;
+    margin: 0 auto;
+    
+    
+ }
+.div{
+   display: flex;
+   margin-top: 30px;
+}
+ button{
+    border: 1px solid;
+    border-style: solid blue;
+    height: 80px;
+    width:480px;
+    font-style: bold;
+    font-size: 20px;
+ }
+ h1{
+   padding: 20px;
+ } 
+#value{
+   color: black;
+}
+.increment{
+   color: red;
+}
+.decrement{
+   color: blue;
+}
